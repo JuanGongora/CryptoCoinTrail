@@ -1,0 +1,1 @@
+# A Sinatra built app for tracking cryptocurrency
